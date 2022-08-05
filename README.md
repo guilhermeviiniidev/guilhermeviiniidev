@@ -1,5 +1,17 @@
-### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeviiniidev&theme=dark&show_icons=true)
+### Hi everyone 👋
+
+Prazer em ver você bisbilhotando meu perfil do github, 
+meu nome é Guilherme Vinicius 😄.
+
+###### Informações e curiosidades sobre mim.
+
+- 🌱 Tenho 23 anos e todos eles foram morando na cidade de São José do Rio Preto - SP, Brasil.
+- 📚 Sou formado em Análise e desenvolvimento de sistemas pela Fatec Rio Preto.
+- 🛹 As vezes arrisco algumas tricks no skate.
+- 🤔 Não acho que exista linguagens ou frameworks bala de prata, mas gosto muito de Javascript. (É o que penso)
+- 🚀 Sou programador há exatamente uns 3 anos, por ai.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeviiniidev&theme=material-palenight&show_icons=true)
 
 <!--
 **guilhermeviiniidev/guilhermeviiniidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
