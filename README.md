@@ -8,7 +8,7 @@ meu nome é Guilherme Vinicius 😄.
 - 🌱 Tenho 23 anos e todos eles foram morando na cidade de São José do Rio Preto - SP, Brasil.
 - 📚 Sou formado em Análise e desenvolvimento de sistemas pela Fatec Rio Preto.
 - 🛹 As vezes arrisco algumas tricks no skate.
-- 🤔 Não acho que exista linguagens ou frameworks bala de prata, mas gosto muito de Javascript. (É o que penso)
+- 🤔 Não acho que exista linguagens ou frameworks bala de prata (É o que penso), mas gosto muito de Javascript.
 - 🚀 Sou programador há exatamente uns 3 anos, por ai.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeviiniidev&theme=material-palenight&show_icons=true)
