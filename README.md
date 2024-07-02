@@ -5,7 +5,7 @@ meu nome é Guilherme Vinicius 😄.
 
 ###### Informações e curiosidades sobre mim.
 
-- 🌱 Tenho 23 anos e todos eles foram morando na cidade de São José do Rio Preto - SP, Brasil.
+- 🌱 Tenho 24 anos e todos eles foram morando na cidade de São José do Rio Preto - SP, Brasil.
 - 📚 Sou formado em Análise e desenvolvimento de sistemas pela Fatec Rio Preto.
 - 🛹 As vezes arrisco algumas tricks no skate.
 - 🤔 Não acho que exista linguagens ou frameworks bala de prata (É o que penso), mas gosto muito de Javascript.
